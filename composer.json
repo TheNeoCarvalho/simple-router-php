@@ -1,0 +1,17 @@
+{
+  "name": "manoelcarvalho/simple-routes",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app"
+    }
+  },
+  "authors": [
+    {
+      "name": "Manoel Carvalho",
+      "email": "manoelmecat@gmail.com"
+    }
+  ],
+  "require": {
+    "league/plates": "^3.4"
+  }
+}
